@@ -23,3 +23,15 @@ Math-statistics, Bachelor
   - Movie ratings & trends
       - "How have movie ratings changed over time, and are there trends across different genres?"
       - "How has the relationship between movie ratings and box office revenue changed over time?"
+
+### Week 10 update
+- I will be working on my own
+- The general topic will be about stock market. Maybe about predictions?
+- I may use data from yahoo.
+    - Pros: Free access, wide data coverage, long historical data, simple structured
+    - Cons: Might be limited, the API is likely not officially supported？， would need a lot data cleaning
+ 
+Questions: ( I haven't decide which stock market I would like to ecplore more yet, here are ssome of my thoughts)
+ - How does stock price change over time? Example: How has Apple (AAPL) stock price changed over the past 5 years?
+ - How are two stocks related to each other? Example: What is the relationship between Tesla (TSLA) and S&P 500 returns?
+ - How does stock performance differ across time periods?Example: Is stock return higher in summer vs winter months?
