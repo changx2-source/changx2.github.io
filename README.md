@@ -1,3 +1,4 @@
+<img width="816" height="436" alt="Screen Shot 2026-04-24 at 1 37 18 PM" src="https://github.com/user-attachments/assets/84c4f343-a616-4736-a1e7-08acaf19b53d" />
 # Data scientist
 
 ### Education
