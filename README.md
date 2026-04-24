@@ -46,4 +46,4 @@ Questions: ( I haven't decide which stock market I would like to ecplore more ye
 - The challenge is that stock prices has many short term fluctuations that may make patterns harder to interpret. Another challenge is that moving averages are useful for showing trends, but they may miss sudden changes or lag behind real price movement. The project currently relies on only one company, so the findings may not generalize to the stock market as a whole.
 
 ### Week 12 Update
-- 
+- The graph attached shows Apple’s closing stock price around the iPhone 15 event on September 12, 2023. Before the event, the stock price started to decline from around 187 to about 177. On the event date, the price continued to drop, and in the days after the event it stayed mostly below the preevent level. This suggests that the iPhone 15 announcement did not lead to an immediate increase in Apple’s stock price. Instead, the market reaction appears to be negative or cautious during this short time period. However, this graph only shows a small window, so other outside factors may also have affected the price.
