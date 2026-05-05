@@ -1,4 +1,7 @@
 <img width="816" height="436" alt="Screen Shot 2026-04-24 at 1 37 18 PM" src="https://github.com/user-attachments/assets/84c4f343-a616-4736-a1e7-08acaf19b53d" />
+
+<img width="741" height="598" alt="image" src="https://github.com/user-attachments/assets/d1c23499-47aa-4a38-9286-feb2acd6418e" />
+
 # Data scientist
 
 ### Education
@@ -47,3 +50,8 @@ Questions: ( I haven't decide which stock market I would like to ecplore more ye
 
 ### Week 12 Update
 - The graph attached shows Apple’s closing stock price around the iPhone 15 event on September 12, 2023. Before the event, the stock price started to decline from around 187 to about 177. On the event date, the price continued to drop, and in the days after the event it stayed mostly below the preevent level. This suggests that the iPhone 15 announcement did not lead to an immediate increase in Apple’s stock price. Instead, the market reaction appears to be negative or cautious during this short time period. However, this graph only shows a small window, so other outside factors may also have affected the price.
+
+### Mini Project 5
+- This map shows Professor Wirfs-Brock’s locations during her visit to Whitman College. My hypothesis is that she spent most of her time near campus, but also went to downtown Walla Walla.
+The map supports this because many points are close to Whitman College and Olin Hall. There is also a large group of points in downtown Walla Walla. The campus points were probably from her interview activities, and the downtown points may be from eating, staying at a hotel, or other parts of the visit.
+Overall, the map shows that her visit was mostly centered around Whitman College, but she also spent some time in the city.
