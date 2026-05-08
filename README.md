@@ -55,3 +55,9 @@ Questions: ( I haven't decide which stock market I would like to ecplore more ye
 - This map shows Professor Wirfs-Brock’s locations during her visit to Whitman College. My hypothesis is that she spent most of her time near campus, but also went to downtown Walla Walla.
 The map supports this because many points are close to Whitman College and Olin Hall. There is also a large group of points in downtown Walla Walla. The campus points were probably from her interview activities, and the downtown points may be from eating, staying at a hotel, or other parts of the visit.
 Overall, the map shows that her visit was mostly centered around Whitman College, but she also spent some time in the city.
+
+### Week 14 update
+- So far, I have chosen to use Yahoo Finance data to study Apple (AAPL) stock prices. I downloaded the data in Google Colab using yfinance, checked the variables, cleaned the date format, and created visualizations. I also made 20 day and 50 day moving averages to help answer my question: Can moving averages help identify major trend changes in Apple stock prices?
+What remains to be done is finishing the final visuals, improving my written interpretation, and organizing the project into a clear data story.
+-The new technique I plan to use is moving averages, which smooth daily stock price changes and make longer term trends easier to see. I am learning this through Python examples, pandas documentation, and online explanations of stock trend analysis. I will use the 20 day moving average for short term trends and the 50 day moving average for longer term trends.
+- I will organize my project by first showing the raw Apple closing price, then showing the moving averages to explain how they reveal trends more clearly. My visuals will move from simple to more analytical. I plan to use slides to explain the question, method, results, and limitations.
